@@ -1,4 +1,3 @@
 # hello_world
 mon premier référentiel
-je me nomme deviches
-ajout d'une présentation
+je me nomme deviches et je suis étudiant IVOIRIEN
